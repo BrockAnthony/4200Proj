@@ -36,9 +36,6 @@ This project is part of the DS4200 course, and contributions are limited to cour
 - Brock Ada
 - Li Zou
 
-## License
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
-
 ## Acknowledgments
 - Thanks to DS4200 course staff and fellow students for guidance and support.
 - Kaggle for providing the dataset.
