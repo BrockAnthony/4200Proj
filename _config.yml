@@ -18,12 +18,34 @@ theme: minima\
 plugins:\
   - jekyll-feed\
 \
+# Exclude from processing.\
+# The following items will not be processed, by default.\
+# Any item can be added to this list by adding the name of the file/directory to the list.\
+exclude:\
+  - Gemfile\
+  - Gemfile.lock\
+  - node_modules\
+  - vendor/bundle/\
+  - vendor/cache/\
+  - vendor/gems/\
+  - vendor/ruby/\
 \
 # Optional, for GitHub Pages: publish settings in the docs/ folder\
 # destination: ./docs\
 \
-# SEO settings\
-title: Mental Health in the Tech Industry\
-description: A visual guide to mental health statistics and discussions within the US tech industry.\
+# Plugins (if you have any)\
+# plugins:\
+#   - jekyll-seo-tag\
 \
+# SEO settings\
+title: Mental Health in Tech\
+description: A comprehensive guide to mental health resources, discussions, and support in the technology industry.\
+\
+# Social Media Integration (Optional)\
+twitter_username: yourusername\
+github_username:  yourusername\
+\
+# Google Analytics (Optional)\
+# Replace with your Google Analytics ID\
+google_analytics: UA-XXXXXXXXX-X\
 }
